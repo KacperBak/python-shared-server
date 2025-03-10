@@ -1,4 +1,5 @@
 # Python Shared Server
+Tested using Ubuntu and macOS
 
 ## shared server folder
 ```
