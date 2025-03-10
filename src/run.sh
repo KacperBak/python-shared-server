@@ -2,7 +2,7 @@
 set -euxo pipefail
 
 SHARED_DIRECTORY="$HOME/python-shared-server"
-SERVER_SCRIPT="$HOME/.python-shared-server-main/pwd-http-server.py"
+SERVER_SCRIPT="$HOME/.python-shared-server-main/src/pwd-http-server.py"
 
 # init shared directory
 init() {
